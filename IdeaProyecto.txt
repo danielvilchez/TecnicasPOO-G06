@@ -1,0 +1,32 @@
+PROYECTO DE TÉCNICAS DE POO - GRUPO 06
+
+Nombre provisional:
+Sistema de gestión para una pequeña cafetería.
+
+Problema:
+Una pequeña cafetería puede tener dificultades para llevar un control
+ordenado de sus productos, clientes, empleados y ventas cuando la
+información se registra de manera manual.
+
+Propuesta de solución:
+Desarrollar un sistema que permita gestionar la información de la
+cafetería de manera organizada, facilitando el registro, consulta,
+actualización y eliminación de información.
+
+Módulos previstos:
+1. Gestión de productos.
+2. Gestión de clientes.
+3. Gestión de empleados.
+4. Gestión de ventas.
+5. Reportes y consultas.
+
+Tecnologías previstas:
+- Java.
+- Apache NetBeans.
+- Programación Orientada a Objetos.
+- Base de datos.
+- Programación por capas.
+
+Estado del proyecto:
+Idea inicial. El proyecto será desarrollado progresivamente durante
+las siguientes semanas del curso.
